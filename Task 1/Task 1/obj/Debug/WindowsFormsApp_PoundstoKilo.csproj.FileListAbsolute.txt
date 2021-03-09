@@ -1,0 +1,40 @@
+D:/Maikyau/Documents/Visual Studio Codes/WindowsFormsApp_PoundstoKilo/WindowsFormsApp_PoundstoKilo/bin/Debug/WindowsFormsApp_PoundstoKilo.exe.config
+D:/Maikyau/Documents/Visual Studio Codes/WindowsFormsApp_PoundstoKilo/WindowsFormsApp_PoundstoKilo/bin/Debug/WindowsFormsApp_PoundstoKilo.exe
+D:/Maikyau/Documents/Visual Studio Codes/WindowsFormsApp_PoundstoKilo/WindowsFormsApp_PoundstoKilo/bin/Debug/WindowsFormsApp_PoundstoKilo.pdb
+D:/Maikyau/Documents/Visual Studio Codes/WindowsFormsApp_PoundstoKilo/WindowsFormsApp_PoundstoKilo/obj/Debug/WindowsFormsApp_PoundstoKilo.csprojAssemblyReference.cache
+D:/Maikyau/Documents/Visual Studio Codes/WindowsFormsApp_PoundstoKilo/WindowsFormsApp_PoundstoKilo/obj/Debug/WindowsFormsApp_PoundstoKilo.Form1.resources
+D:/Maikyau/Documents/Visual Studio Codes/WindowsFormsApp_PoundstoKilo/WindowsFormsApp_PoundstoKilo/obj/Debug/WindowsFormsApp_PoundstoKilo.Properties.Resources.resources
+D:/Maikyau/Documents/Visual Studio Codes/WindowsFormsApp_PoundstoKilo/WindowsFormsApp_PoundstoKilo/obj/Debug/WindowsFormsApp_PoundstoKilo.csproj.GenerateResource.cache
+D:/Maikyau/Documents/Visual Studio Codes/WindowsFormsApp_PoundstoKilo/WindowsFormsApp_PoundstoKilo/obj/Debug/WindowsFormsApp_PoundstoKilo.csproj.CoreCompileInputs.cache
+D:/Maikyau/Documents/Visual Studio Codes/WindowsFormsApp_PoundstoKilo/WindowsFormsApp_PoundstoKilo/obj/Debug/WindowsFormsApp_PoundstoKilo.exe
+D:/Maikyau/Documents/Visual Studio Codes/WindowsFormsApp_PoundstoKilo/WindowsFormsApp_PoundstoKilo/obj/Debug/WindowsFormsApp_PoundstoKilo.pdb
+C:/Users/Ebuka/source/repos/WindowsFormsApp_PoundstoKilo/WindowsFormsApp_PoundstoKilo/bin/Debug/WindowsFormsApp_PoundstoKilo.exe.config
+C:/Users/Ebuka/source/repos/WindowsFormsApp_PoundstoKilo/WindowsFormsApp_PoundstoKilo/bin/Debug/WindowsFormsApp_PoundstoKilo.exe
+C:/Users/Ebuka/source/repos/WindowsFormsApp_PoundstoKilo/WindowsFormsApp_PoundstoKilo/bin/Debug/WindowsFormsApp_PoundstoKilo.pdb
+C:/Users/Ebuka/source/repos/WindowsFormsApp_PoundstoKilo/WindowsFormsApp_PoundstoKilo/obj/Debug/WindowsFormsApp_PoundstoKilo.csprojAssemblyReference.cache
+C:/Users/Ebuka/source/repos/WindowsFormsApp_PoundstoKilo/WindowsFormsApp_PoundstoKilo/obj/Debug/WindowsFormsApp_PoundstoKilo.Form1.resources
+C:/Users/Ebuka/source/repos/WindowsFormsApp_PoundstoKilo/WindowsFormsApp_PoundstoKilo/obj/Debug/WindowsFormsApp_PoundstoKilo.Properties.Resources.resources
+C:/Users/Ebuka/source/repos/WindowsFormsApp_PoundstoKilo/WindowsFormsApp_PoundstoKilo/obj/Debug/WindowsFormsApp_PoundstoKilo.csproj.GenerateResource.cache
+C:/Users/Ebuka/source/repos/WindowsFormsApp_PoundstoKilo/WindowsFormsApp_PoundstoKilo/obj/Debug/WindowsFormsApp_PoundstoKilo.csproj.CoreCompileInputs.cache
+C:/Users/Ebuka/source/repos/WindowsFormsApp_PoundstoKilo/WindowsFormsApp_PoundstoKilo/obj/Debug/WindowsFormsApp_PoundstoKilo.exe
+C:/Users/Ebuka/source/repos/WindowsFormsApp_PoundstoKilo/WindowsFormsApp_PoundstoKilo/obj/Debug/WindowsFormsApp_PoundstoKilo.pdb
+C:/Users/Ebuka/source/repos/Task 1/WindowsFormsApp_PoundstoKilo/bin/Debug/WindowsFormsApp_PoundstoKilo.exe.config
+C:/Users/Ebuka/source/repos/Task 1/WindowsFormsApp_PoundstoKilo/bin/Debug/WindowsFormsApp_PoundstoKilo.exe
+C:/Users/Ebuka/source/repos/Task 1/WindowsFormsApp_PoundstoKilo/bin/Debug/WindowsFormsApp_PoundstoKilo.pdb
+C:/Users/Ebuka/source/repos/Task 1/WindowsFormsApp_PoundstoKilo/obj/Debug/WindowsFormsApp_PoundstoKilo.csprojAssemblyReference.cache
+C:/Users/Ebuka/source/repos/Task 1/WindowsFormsApp_PoundstoKilo/obj/Debug/WindowsFormsApp_PoundstoKilo.Form1.resources
+C:/Users/Ebuka/source/repos/Task 1/WindowsFormsApp_PoundstoKilo/obj/Debug/WindowsFormsApp_PoundstoKilo.Properties.Resources.resources
+C:/Users/Ebuka/source/repos/Task 1/WindowsFormsApp_PoundstoKilo/obj/Debug/WindowsFormsApp_PoundstoKilo.csproj.GenerateResource.cache
+C:/Users/Ebuka/source/repos/Task 1/WindowsFormsApp_PoundstoKilo/obj/Debug/WindowsFormsApp_PoundstoKilo.csproj.CoreCompileInputs.cache
+C:/Users/Ebuka/source/repos/Task 1/WindowsFormsApp_PoundstoKilo/obj/Debug/WindowsFormsApp_PoundstoKilo.exe
+C:/Users/Ebuka/source/repos/Task 1/WindowsFormsApp_PoundstoKilo/obj/Debug/WindowsFormsApp_PoundstoKilo.pdb
+/Users/macbookair/Desktop/Task 1/Task 1/bin/Debug/WindowsFormsApp_PoundstoKilo.exe.config
+/Users/macbookair/Desktop/Task 1/Task 1/bin/Debug/WindowsFormsApp_PoundstoKilo.exe
+/Users/macbookair/Desktop/Task 1/Task 1/bin/Debug/WindowsFormsApp_PoundstoKilo.pdb
+/Users/macbookair/Desktop/Task 1/Task 1/obj/Debug/WindowsFormsApp_PoundstoKilo.csprojAssemblyReference.cache
+/Users/macbookair/Desktop/Task 1/Task 1/obj/Debug/WindowsFormsApp_PoundstoKilo.Form1.resources
+/Users/macbookair/Desktop/Task 1/Task 1/obj/Debug/WindowsFormsApp_PoundstoKilo.Properties.Resources.resources
+/Users/macbookair/Desktop/Task 1/Task 1/obj/Debug/WindowsFormsApp_PoundstoKilo.csproj.GenerateResource.cache
+/Users/macbookair/Desktop/Task 1/Task 1/obj/Debug/WindowsFormsApp_PoundstoKilo.csproj.CoreCompileInputs.cache
+/Users/macbookair/Desktop/Task 1/Task 1/obj/Debug/WindowsFormsApp_PoundstoKilo.exe
+/Users/macbookair/Desktop/Task 1/Task 1/obj/Debug/WindowsFormsApp_PoundstoKilo.pdb
